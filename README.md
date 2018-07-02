@@ -1,2 +1,1 @@
-# vandyhacks.github.io
-Site for our workshops
+Simple web workshop, currently on https://vandyhacks.github.io
